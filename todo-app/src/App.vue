@@ -1,14 +1,18 @@
 <template>
-  lkl
+  test
 </template>
 
-<script>
+  <script>
 
-export default {
-  name: 'App'
-}
-</script>
+  export default {
+    name: 'App'
+  }
+  </script>
 
-<style>
+  <style>
 
-</style>
+  body{
+    background-color: peru;
+  }
+
+  </style>
